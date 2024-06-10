@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647027698856",
+    "project_id": "sppkita-731a3",
+    "storage_bucket": "sppkita-731a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647027698856:android:986128430318227cc2a69d",
+        "android_client_info": {
+          "package_name": "com.example.coba_spp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcbTNpdGiiQ1aBreVUApX5cEVCQu5NANs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
